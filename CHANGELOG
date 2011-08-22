@@ -1,3 +1,8 @@
+v0.4.6
+------
+- Fixed small bug in UISpecRunner::Options.from_file when supplying arguments containing a space
+- Switched to Square's fork of WaxSim (https://github.com/square/WaxSim)
+
 v0.2.3
 -------
 - Added UISpecRunner::Options.from_file
